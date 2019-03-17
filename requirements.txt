@@ -1,0 +1,8 @@
+jupyter
+tweepy
+pprint
+pandas
+matplotlib 
+numpy
+vaderSentiment
+praw
